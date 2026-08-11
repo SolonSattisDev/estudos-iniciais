@@ -4,7 +4,7 @@ Repositório com meus primeiros passos em programação, estudando pela Alura.
 
 ## Conteúdo
 - `index.html` — primeiros testes com HTML
-- SQL e SQLite, visando criar consultas sqls uteis para um comercio 
+- SQL e SQLite, visando criar consultas sqls uteis para um comercio e usar em trabalho no sistema RM TOTVS pelo cargo que trabalho atualmente 
 ## Tecnologias
 - HTML (em andamento)
 - Próximos passos: Python, aprofundar SQL
